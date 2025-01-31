@@ -53,6 +53,12 @@ footer .nav a:hover {
   background: none;
 }
 
+.navbar-inverse .navbar-nav > li > a,
+footer .nav a:focus {
+  color: #9bf0e1;
+  background: none;
+}
+
 /*  ===================== Imagem de capa  ================ */
 
 .capa {
